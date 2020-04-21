@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b7319e7-e9e1-4082-9cc7-5b1aa2d16368" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sample.txt" afterDir="false" />
+    <list default="true" id="5b7319e7-e9e1-4082-9cc7-5b1aa2d16368" name="Default Changelist" comment="merge conflict test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,5 +34,11 @@
       <updated>1587487642743</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="351" y="55" key="CommitChangelistDialog2" timestamp="1587491610357">
+      <screen x="0" y="0" width="1440" height="845" />
+    </state>
+    <state x="351" y="55" key="CommitChangelistDialog2/0.0.1440.845@0.0.1440.845" timestamp="1587491610357" />
   </component>
 </project>
